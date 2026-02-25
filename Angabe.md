@@ -1,7 +1,7 @@
 # GIT Quiz - Angabe
 
 ## Aufgabenstellung
-**Name:** _____________________  
+**Name:** _Adnan Muzaferovic___  
 
 ### Ziel
 Zeige in diesem Quiz, dass du die Grundlagen von Git verstanden hast.
